@@ -3,7 +3,7 @@ import { rowLength, idLength, nameLength } from "./constants";
 /**
  *
  * @param {string} sex - "male" or "female" only
- * @param {string} id - exactly 10 ASCII chars
+ * @param {string} id - strictly 10 ASCII chars
  * @param {string} name - 0-26 chars
  * @returns {string}
  */
