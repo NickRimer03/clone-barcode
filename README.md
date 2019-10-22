@@ -50,9 +50,9 @@ Otherwise, a black square is drawn.
 ##### Code
 ```javascript
 const obj = {
-  "sex": "male",
-  "id": "c5j818dyo5",
-  "name": "Oleg Vladimirovich"
+  sex: "male",
+  id: "c5j818dyo5",
+  name: "Oleg Vladimirovich"
 }
 ```
 ##### Barcode
@@ -63,9 +63,9 @@ const obj = {
 ##### Code
 ```javascript
 const obj = {
-  "sex": "female",
-  "id": "0owrgqqwfw",
-  "name": "Dazdraperma Petrovna"
+  sex: "female",
+  id: "0owrgqqwfw",
+  name: "Dazdraperma Petrovna"
 }
 ```
 ##### Barcode
